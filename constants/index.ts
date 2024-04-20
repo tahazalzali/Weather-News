@@ -1,4 +1,4 @@
-export const apiKey = 'dabb78e77d9147148fb194846241704';
+export const apiKey = 'API_KEY_HERE';
 
 export type weatherImageDTO = {
     [key: string]: any
